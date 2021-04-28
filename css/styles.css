@@ -58,6 +58,8 @@ body{
     font-size: 24px;
 }
 
+.iconify { width: 24px; height: 24px; }
+
 .link{
     display: inline-block;
     color: inherit;
@@ -106,8 +108,7 @@ body{
 
 .copy{
     font-size: 24px;
-    color: var(--gray);
-    text-shadow: var(--shadow)  var(--color_shadow);
+    color: #fef9e7 ;
     margin: 15px 0;
 }
 
